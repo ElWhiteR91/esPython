@@ -1,4 +1,4 @@
-#esercizio
+#esercizio while
 n = 0
 nomi = ["ivan","marsel","lorenzo","fabian"]
 while n <=3:
